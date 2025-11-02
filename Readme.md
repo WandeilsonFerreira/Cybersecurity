@@ -1,5 +1,10 @@
 <center><img src="imagens/Imagem01.png" alt="logo"></center>
 
+<br>
+
+# Cybersecurity
+
+
 ### Wandeilson Ferreira
 
 
@@ -317,4 +322,3 @@ smbclient -L //<ip_vitima> -U msfadmin
 
 Para proteger sistemas contra ataques de força bruta, é fundamental adotar uma abordagem preventiva e estratégica. Primeiramente, deve-se desativar serviços desnecessários, reduzindo a superfície de ataque e limitando os pontos de entrada. Além disso, é essencial utilizar protocolos modernos e seguros, como SSH em vez de Telnet, garantindo a criptografia dos dados transmitidos. A implementação de senhas fortes e complexas dificulta a adivinhação por meio de tentativas automatizadas. Por fim, a configuração de mecanismos de bloqueio após um número limitado de tentativas de login ajuda a mitigar ataques persistentes, interrompendo o acesso de agentes maliciosos após sucessivas falhas de autenticação. Essas medidas, combinadas, fortalecem significativamente a segurança do ambiente.
 
-# Cybersecurity
