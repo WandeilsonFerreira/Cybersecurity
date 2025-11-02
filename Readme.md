@@ -9,8 +9,6 @@
 - [Configuração dos ambientes virtuais](#Configuração-dos-ambientes-virtuais)
 - [Práticas](#Práticas)
 - [Medidas de Segurança Contra Ataques de Força Bruta](#Medidas-de-Segurança-Contra-Ataques-de-Força-Bruta)
-- [Atividade 02](#Atividade-02)
-- [Atividade 03](#Atividade-03)
 
 ## Descrição do desafio
 O presente desafio simulará alguns cenários de ataques de força bruta em ambientes de testes para exercitar medidas de ataque e prevenção.
@@ -318,4 +316,5 @@ smbclient -L //<ip_vitima> -U msfadmin
 ## Medidas de Segurança Contra Ataques de Força Bruta
 
 Para proteger sistemas contra ataques de força bruta, é fundamental adotar uma abordagem preventiva e estratégica. Primeiramente, deve-se desativar serviços desnecessários, reduzindo a superfície de ataque e limitando os pontos de entrada. Além disso, é essencial utilizar protocolos modernos e seguros, como SSH em vez de Telnet, garantindo a criptografia dos dados transmitidos. A implementação de senhas fortes e complexas dificulta a adivinhação por meio de tentativas automatizadas. Por fim, a configuração de mecanismos de bloqueio após um número limitado de tentativas de login ajuda a mitigar ataques persistentes, interrompendo o acesso de agentes maliciosos após sucessivas falhas de autenticação. Essas medidas, combinadas, fortalecem significativamente a segurança do ambiente.
+
 # Cybersecurity
